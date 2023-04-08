@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #BB8FCE;
+  color: #026773;
 }
 
 a {
@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #FEDCFF;
+  color: #3CA6A6;
   text-decoration: none;
 }
 
@@ -611,7 +611,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/me.jpg") center center no-repeat;
+  background: url("../img/me.png") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
